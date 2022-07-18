@@ -1,1 +1,1 @@
-This is a manual game between two or more players at the same time. Each player will have to make one of the three shapes of the hand, called "drag", "hammer" and "bao". The game has time to play and decide to win and lose very quickly
+
